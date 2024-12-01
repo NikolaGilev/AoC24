@@ -1,6 +1,6 @@
-this will be my 1st participation in advent of code.
+this will be my 1st time participating in Advent of Code.
 
-I will be solving them using multiple programming languages in the following order:
+I will be solving the challenges using multiple programming languages in the following order:
 
 1. python - Day 1, 6, 11, 16, 21
 2. C# - Day 2, 7, 12, 17, 22
